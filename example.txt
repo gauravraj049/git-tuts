@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is an example-hi -dev
+=======
+this is an example -hi
+>>>>>>> origin/master
